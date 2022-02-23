@@ -13,7 +13,7 @@
 # Skills ⚙️
 ## iOS Development 🍎
 ### Swift
-- swift로 다수의 개인프로젝트를 진행한 경험이 있습니다.  
+- swift로 iOS 개발을 하며 swift 문법에 익숙합니다. 
 - optional, enum, protocol을 비롯한 swift의 모든 장점을 활용해 개발하고자 노력합니다.
 
 ### UIKit
@@ -94,3 +94,8 @@
 - Core Data
 - Xcode, iOS simulator
 
+# Education & Career
+## Education 🎓
+2011 - 2017 고려대학교 영어교육과, 경영학과
+## Career 👨‍🏫
+2018 - 2020 백신고등학교 영어교사
