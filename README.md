@@ -23,7 +23,7 @@
 
 ### Design Pattern
 - MVVM, MVC 패턴을 이해하고 프로젝트에 적용하기 위해 노력합니다.  
-- singleton, delegate 패턴을 iOS에 적용되는 방법을 알고 활용합니다.
+- singleton, delegate 패턴을 iOS에 적용하는 방법을 알고 활용하고자 노력합니다.
 
 ### And...
 - Swift Package Manager, CocoaPods
