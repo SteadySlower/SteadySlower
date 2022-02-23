@@ -32,7 +32,7 @@
 
 ## Other Development ⌨️
 ### Server: (nodejs, MySQL, AWS, Visual Studio Code)
-- expressjs로 클론코딩 팀프로젝트를 위한 [서버]()를 구현한 경험이 있습니다.
+- expressjs로 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
 - 기초적인 RESTful API 서버를 구축할 수 있습니다.  
 ### Firebase
 - Authentication, Realtime Database, Storage를 iOS앱에서 활용하는 것을 학습했습니다.
