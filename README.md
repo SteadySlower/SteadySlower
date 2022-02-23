@@ -31,9 +31,10 @@
 - Xcode, iOS simulator
 
 ## Other Development ⌨️
-### Server: (nodejs, MySQL, AWS, Visual Studio Code)
-- expressjs로 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
+### Server
+- 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
 - 기초적인 RESTful API 서버를 구축할 수 있습니다.  
+- nodejs, expressjs, MySQL, AWS, Visual Studio Code
 ### Firebase
 - Authentication, Realtime Database, Storage를 iOS앱에서 활용하는 것을 학습했습니다.
 ### Python
@@ -77,7 +78,8 @@
     - MySQL
     - Visual Studio Code, Postman, MySQL WorkBench
 - 공통
-    - git, github
+    - Git, Github
+
 
 ## 오늘 단어 프로젝트 (개인 프로젝트) 📝
 ### 링크 🔗 
