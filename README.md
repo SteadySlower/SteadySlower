@@ -1,7 +1,8 @@
 # 교사 출신 iOS 개발자 문종원입니다. ☺️
 ## 1. iOS 독학 및 학습 블로그 운영 📚
-주도적으로 지식을 습득하고 공유합니다.  
-모르는 지식을 배우고, 배운 지식을 정리하고, 아는 지식을 나누는데 강합니다.
+주도적으로 지식을 습득하고 [블로그](https://velog.io/@comdongsam)에 공유합니다.  
+모르는 지식을 배우고, 배운 지식을 정리하고, 아는 지식을 나누는데 강합니다.  
+
 ## 2. 영어 교사 출신 👨‍🏫
 영어로 의사소통, 개발문서 읽기, 구글링에 능합니다.  
 필요한 모든 개발지식을 빠르게 찾고 적용할 수 있습니다.
@@ -31,7 +32,7 @@
 
 ## Other Development ⌨️
 ### Server: (nodejs, MySQL, AWS, Visual Studio Code)
-- expressjs로 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
+- expressjs로 클론코딩 팀프로젝트를 위한 [서버]()를 구현한 경험이 있습니다.
 - 기초적인 RESTful API 서버를 구축할 수 있습니다.  
 ### Firebase
 - Authentication, Realtime Database, Storage를 iOS앱에서 활용하는 것을 학습했습니다.
