@@ -12,7 +12,8 @@
 많은 문제를 개발로 풀지만 모든 문제를 풀려고 하지는 않는 개발자가 되고자 합니다.
 
 # Contact
-✉️ email: steadyslower@gmail.com
+✉️ email: steadyslower@gmail.com  
+📖 blog: https://velog.io/@comdongsam
 
 # iOS Development Skills 🍎
 ## 프로젝트에 적용해 본 기술 👍
