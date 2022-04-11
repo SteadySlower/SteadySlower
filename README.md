@@ -32,7 +32,7 @@
 
 ## Other Development ⌨️
 ### Server
-- 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
+- 당근마켓 클론코딩 팀프로젝트를 위한 서버를 구현한 경험이 있습니다.
 - 기초적인 RESTful API 서버를 구축할 수 있습니다.  
 - nodejs, expressjs, MySQL, AWS, Visual Studio Code
 ### Firebase
@@ -81,15 +81,15 @@
     - Git, Github
 
 
-## 오늘 단어 프로젝트 (개인 프로젝트) 📝
+## 오늘 단어 프로젝트 (개인 출시 프로젝트) 📝
 ### 링크 🔗 
-[Source Code](https://github.com/SteadySlower/schedule_words)
+[Source Code](https://github.com/SteadySlower/schedule_words)  
+[App Store](https://apps.apple.com/kr/app/%EC%8A%A4%EC%BC%80%EC%A4%84-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1617214875)
 ### 개요 📄
 영어를 배우는 학생으로서 가장 힘든 부분은 영단어 암기였습니다.  
 영어를 가르치는 선생으로서 가장 힘든 부분 역시 영단어 수업이었습니다.  
 단어 학습은 꾸준한 복습이 기본입니다. 왕도는 없습니다.  
 영어 교사의 노하우를 담아 복습 스케줄을 자동으로 짜주는 단어장을 개발했습니다.  
-현재 개발 후 앱스토어 심사 중입니다.
 ### 사용 기술 💻
 - Swift
 - Code-based UI (UIKit)
