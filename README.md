@@ -12,7 +12,7 @@
 많은 문제를 개발로 풀지만 모든 문제를 풀려고 하지는 않는 개발자가 되고자 합니다.
 
 # Contact
-📄 resume: [문종원의 개발자 이력서 by Notion](https://steadyslower.notion.site/bfc59864886f4840a54e8de4a73fd9a3)
+📄 resume: [문종원의 개발자 이력서 by Notion](https://steadyslower.notion.site/bfc59864886f4840a54e8de4a73fd9a3)  
 ✉️ email: steadyslower@gmail.com  
 📖 blog: https://velog.io/@comdongsam
 
