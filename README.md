@@ -4,7 +4,7 @@
 모르는 지식을 배우고, 배운 지식을 정리하고, 아는 지식을 나누는데 강합니다.
 
 ## 2. 토이 프로젝트 lover 🚂 
-개발의 가장 멋진 부분은 현실의 문제를 해결하는 것이라고 생각합니다.
+개발의 가장 멋진 부분은 현실의 문제를 해결하는 것이라고 생각합니다.  
 평일에는 회사의 비지니스 밸류를 주말에는 즐거움과 유용함을 구현하고 있습니다.
 
 ## 3. 영어 교사 출신 👨‍🏫
@@ -61,7 +61,59 @@
 - 핵심적인 내용을 적절한 유머와 함께 전달하는 것을 목표로 합니다.
 - 사내 iOS 개발자들과 매주 개발 세미나를 진행한 적이 있습니다.
 
-# Projects
+# Company Projects 💼
+
+## Resmart
+### 링크 🔗
+[App Store](https://apps.apple.com/kr/app/resmart/id1463753511)
+### 개요 📄
+- 인지 능력을 측정하고 개선하기 위한 앱입니다.  
+- 레거시 코드를 개선하는 역할을 했습니다.
+- 비개발조직인 QA 팀과 소통하면서 유지보수업무를 담당했습니다.  
+### 사용 기술 💻
+- UIKit
+- [Chart](https://github.com/danielgindi/Charts)
+- alamofire
+- Google TTS, STT
+- Web View
+
+## Andromeda (Musio Talk)
+### 링크 🔗
+[App Store KR](https://apps.apple.com/kr/app/andromeda/id6443482041)  
+[App Store US](https://apps.apple.com/us/app/musio-talk-lets-go-edition/id1572775674)
+### 개요 📄
+- AI 챗봇을 활용한 영어 회화 학습 앱입니다.  
+- 기존의 코드를 Testable하게 Refactoring하고 Unit test를 작성하는 업무를 담당했습니다.  
+- 비개발조직인 QA 팀과 소통하면서 유지보수업무를 담당했습니다.  
+### 사용 기술 💻
+- SwiftUI
+- Firebase
+- Unit Test (Quick & Nimble)
+
+## 미출시 어플
+### 개요 📄
+- MVP 1단계까지 모든 코드를 혼자서 모두 담당했습니다.  
+- 단방향 데이터 바인딩 아키텍쳐를 적용했습니다.  
+- 테스트를 위한 최적의 아키텍쳐를 고민하고 Unit Test 작성했습니다.
+### 사용 기술 💻
+- SwfitUI
+- Combine
+- Unit Test (Quick & Nimble)
+
+# Toy Projects 🚂
+
+## JWords (일본어 단어장)
+### 링크 🔗
+[Source Code](https://github.com/SteadySlower/JWords)  
+[Blog Posting](https://velog.io/@comdongsam/series/Side-Project)
+### 개요 📄
+- 일본어 공부를 시작하면서 만들기 시작한 어플입니다.  
+- 일본어 공부를 하면서 그때그때 제가 필요한 기능을 추가해가면서 만들고 있습니다.  
+- 외국어 교사로서의 그리고 노련한 외국어 학습자로서의 녹아있습니다.  
+### 사용 기술 💻
+- SwiftUI
+- Unit Test (Quick Nimble)
+- Firebase
 
 ## 학생부 프로젝트 (개인 프로젝트) 👨‍🏫
 ### 링크 🔗 
@@ -69,11 +121,8 @@
 [Server(nodejs) Source Code](https://github.com/SteadySlower/HSB_server)  
 [Blog Posting](https://velog.io/@comdongsam)  
 ### 개요 📄
-학생부 교사 시절 가장 비중이 큰 업무는 생활지도였습니다.  
-그 업무를 개선하기 위해 교사 시절 만들고 싶었던 앱을 개발 공부를 하면서 만들었습니다.  
-학생부 교사를 중심으로 학생들의 생활교육을 전교사가 공유하기 위한 앱입니다.  
-교문에서 학생부 교사가 학생들의 생활지도 위반사항을 저장하고 담임교사가 위반 학생들의 명단을 확인할 수 있습니다.  
-그리고 봉사담당 교사는 명단을 보고 봉사활동을 지도할 수 있습니다. 
+- 학생부 교사 시절 가장 비중이 큰 업무는 생활지도였습니다.  
+- 교사 시절 만들고 싶었던 앱을 개발 공부를 하면서 만들었습니다.  
 ### 사용 기술 💻
 - 클라이언트 (iOS)
     - Swift
@@ -94,10 +143,10 @@
 [Source Code](https://github.com/SteadySlower/schedule_words)  
 [App Store](https://apps.apple.com/kr/app/%EC%8A%A4%EC%BC%80%EC%A4%84-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1617214875)
 ### 개요 📄
-영어를 배우는 학생으로서 가장 힘든 부분은 영단어 암기였습니다.  
-영어를 가르치는 선생으로서 가장 힘든 부분 역시 영단어 수업이었습니다.  
-단어 학습은 꾸준한 복습이 기본입니다. 왕도는 없습니다.  
-영어 교사의 노하우를 담아 복습 스케줄을 자동으로 짜주는 단어장을 개발했습니다.  
+- 영어를 배우는 학생으로서 가장 힘든 부분은 영단어 암기였습니다.  
+- 영어를 가르치는 선생으로서 가장 힘든 부분 역시 영단어 수업이었습니다.  
+- 단어 학습은 꾸준한 복습이 기본입니다. 왕도는 없습니다.  
+- 영어 교사의 노하우를 담아 복습 스케줄을 자동으로 짜주는 단어장을 개발했습니다.  
 ### 사용 기술 💻
 - Swift
 - Code-based UI (UIKit)
@@ -110,5 +159,5 @@
 ## Education 🎓
 2011 - 2017 고려대학교 영어교육과, 경영학과
 ## Career 💻
-2018.3 ~ 2021.2 백신고등학교 영어교사
+2018.3 ~ 2021.2 백신고등학교 영어교사  
 2022.5 ~ 아카에이아이 iOS 개발자
