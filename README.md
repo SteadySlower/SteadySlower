@@ -38,6 +38,11 @@
 - SwiftUI와 Combine을 활용한 단방향 데이터 흐름을 가진 아키텍쳐에 관심이 많습니다. (TCA)
 - 다양한 디자인 패턴을 iOS에 적용하는 방법을 알고 활용하고자 노력합니다.
 
+## Test
+- 현업에서 Testable한 코드를 작성하고 Unit test를 작성합니다.
+- UI test를 학습하고 토이 프로젝트에 적용고자 합니다.
+- TDD에 관심이 많습니다. 
+
 ## Network
 - [node.js를 활용한 서버 개발을 학습한 경험](https://github.com/SteadySlower/HSB_server)이 있어 RESTful API에 대해 잘 이해하고 있습니다.
 - 서버 개발자와 협업한 경험이 있습니다.
