@@ -1,15 +1,15 @@
 # 교사 출신 iOS 개발자 문종원입니다. ☺️
-## 1. iOS 독학 및 학습 블로그 운영 📚
-주도적으로 지식을 습득하고 [블로그](https://velog.io/@comdongsam)에 기록합니다.  
-모르는 지식을 배우고, 배운 지식을 정리하고, 아는 지식을 나누는데 강합니다.  
+## 1. 매일 배우기 📚
+[학습 블로그](https://velog.io/@comdongsam)를 1년 넘게 운영 해오고 있습니다.  
+모르는 지식을 배우고, 배운 지식을 정리하고, 아는 지식을 나누는데 강합니다.
 
-## 2. 영어 교사 출신 👨‍🏫
+## 2. 토이 프로젝트 lover 🚂 
+개발의 가장 멋진 부분은 현실의 문제를 해결하는 것이라고 생각합니다.
+평일에는 회사의 비지니스 밸류를 주말에는 즐거움과 유용함을 구현하고 있습니다.
+
+## 3. 영어 교사 출신 👨‍🏫
 영어로 의사소통, 개발문서 읽기, 구글링에 능합니다.  
-필요한 모든 개발지식을 빠르게 찾고 적용할 수 있습니다.
-
-## 3. 교직환경 개선을 위해 개발 공부 시작 🤔
-현실의 문제를 생각하고 기술적 해법을 찾고자 노력합니다.  
-많은 문제를 개발로 풀지만 모든 문제를 풀려고 하지는 않는 개발자가 되고자 합니다.
+비개발 경력에서 얻은 지혜를 개발자로서 성장하는데 활용합니다.
 
 # Contact
 📄 resume: [문종원의 개발자 이력서 by Notion](https://steadyslower.notion.site/bfc59864886f4840a54e8de4a73fd9a3)  
@@ -17,53 +17,49 @@
 📖 blog: https://velog.io/@comdongsam
 
 # iOS Development Skills 🍎
-## 프로젝트에 적용해 본 기술 👍
-### Swift 
-- swift로 iOS 개발을 하며 swift 문법에 익숙합니다. 
-- optional, enum, protocol을 비롯한 swift의 모든 장점을 활용해 개발하고자 노력합니다.
+## Swift 
+- 매일 swift로 알고리즘 문제를 풀어 문법에 익숙합니다. 
+- swift의 최신 트랜드를 꾸준히 follow합니다.
 
-### UIKit
+## SwiftUI
+- 현업에서 한 어플을 처음부터 끝까지 혼자서 SwiftUI를 사용해서 구현한 적이 있습니다.
+- 토이 프로젝트 역시 SwiftUI로 진행하고 있습니다.
+
+## UIKit
 - Storyboard를 사용하지않고 코드만으로 UI 작성할 수 있습니다.
-- UIKit이 제공하는 다양한 UI를 적절히 활용하고 커스터마이징하여 사용할 수 있습니다.
+- 현업에서 UIKit을 사용한 제품의 유지보수를 담당하고 있습니다.
 
-### Design Pattern & OOP
-- MVVM, MVC 패턴을 이해하고 프로젝트에 적용할 수 있습니다.
-- singleton, delegate 패턴을 iOS에 적용하는 방법을 알고 활용하고자 노력합니다.
-- 클린코딩을 위해 모듈화, 캡슐화 등의 OOP의 개념을 이해하고 활용하고자 노력합니다.
+## Combine
+- 현업에 Combine을 활용하고 있습니다.
+- callback을 사용한 코드를 combine을 사용해 리팩토링한 경험이 있습니다.
 
-### Network
-- 서버 개발을 학습한 경험이 있어 RESTful API에 대해 잘 이해하고 있습니다.
-- RESTful API를 iOS 앱과 연동할 수 있습니다.
+## Design Pattern & Architecture
+- MVVM, MVC 등 기본적인 Architecture에 익숙합니다.
+- SwiftUI와 Combine을 활용한 단방향 데이터 흐름을 가진 아키텍쳐에 관심이 많습니다. (TCA)
+- 다양한 디자인 패턴을 iOS에 적용하는 방법을 알고 활용하고자 노력합니다.
 
-### And...
+## Network
+- [node.js를 활용한 서버 개발을 학습한 경험](https://github.com/SteadySlower/HSB_server)이 있어 RESTful API에 대해 잘 이해하고 있습니다.
+- 서버 개발자와 협업한 경험이 있습니다.
+
+## And...
+- Git
 - Swift Package Manager, CocoaPods
 - Core Data, Alamofire, Kingfisher
 - Firebase (Authentication, Database, Storage)
-- Xcode, iOS simulator
-
-## 프로젝트에 활용하지는 않았지만 학습한 기술 🏃
-
-### SwfitUI
-- SwiftUI를 아직 프로젝트에 적용해본 수준은 아니지만 [개념 강의](https://www.inflearn.com/certificate/369118-326064-4659007)를 수강하고 [클론 코딩 강의](https://www.udemy.com/course/instagram-swiftui-clone-mvvm-cloud-firestore/)을 수강하고 있습니다.
-
-### Reactive Programming
-- [RxSwfit 개념 강의](https://www.udemy.com/certificate/UC-68dcf57e-9a8c-4224-98fc-73dcaf63b360/)와 [RxJS 개념 강의](https://www.inflearn.com/certificate/369118-326944-4705500)를 수강하여 함수형 프로그래밍의 개념과 iOS에 적용되는 방식을 학습했습니다.
-- 기존 학생부 프로젝트에 적용하는 프로젝트를 계획하고 있습니다.
-
-### Concurrency
-- [iOS Concurrency 강의](https://www.inflearn.com/certificate/369118-324711-4705499)를 수강하여 GCD와 Operation의 개념을 이해하고 구현하는 방식을 알고 있습니다.
 
 # General Skills 👍 
 ## Communication
-- 교직에 있을 때 영어 교사 회의의 수다쟁이였습니다. 문제 해결을 위한 토론에 적극적으로 참여합니다.
-- 영어를 쉽게 가르치기 위해 노력했습니다. 상대방이 이해하기 쉽게 소통하고자 노력합니다.  
-## English
-- 여권도 없는 토종 한국인이 가질 수 있는 최상의 프리토킹 실력을 가지고 있습니다. (발음도 좋습니다.)  
-- 지금껏 개발문서를 읽으면서 번역기를 돌린 적이 없습니다.  
-- 영어 모르는 것을 물어보면 친절하게 가르쳐줍니다.  
+- 매주 개발자, 디자이너, 기획자가 모두 포함된 Scrum을 진행하고 있습니다.
+- 같은 iOS 개발자 뿐만 아니라 Android, Server 개발자와 소통하며 제품을 개발하고 있습니다.
+- 비개발자와 의사소통에 관심이 많고 개발적 이슈를 쉽게 풀어서 설명하고자 노력합니다.
+## Foreign Language
+- 영어 교사 출신으로 영어로 의사소통에 능합니다.
+- 일본어 비지니스 회화 가능합니다. (JLPT N3)
 ## Presentation
 - 다년간의 수업으로 단련된 PT 스킬을 가지고 있습니다.  
 - 핵심적인 내용을 적절한 유머와 함께 전달하는 것을 목표로 합니다.
+- 사내 iOS 개발자들과 매주 개발 세미나를 진행한 적이 있습니다.
 
 # Projects
 
@@ -113,3 +109,6 @@
 # Education & Career
 ## Education 🎓
 2011 - 2017 고려대학교 영어교육과, 경영학과
+## Career 💻
+2018.3 ~ 2021.2 백신고등학교 영어교사
+2022.5 ~ 아카에이아이 iOS 개발자
