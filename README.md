@@ -109,7 +109,7 @@
 
 ## 대단 - 전부 대신 해주는 일본어 단어장
 ### 링크 🔗
-[App Store](https://apps.apple.com/kr/app/%EB%8C%80%EB%8B%A8-%EC%A0%84%EB%B6%80-%EB%8C%80%EC%8B%A0-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1632847712)
+[App Store](https://apps.apple.com/kr/app/%EB%8C%80%EB%8B%A8-%EC%A0%84%EB%B6%80-%EB%8C%80%EC%8B%A0-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EB%8B%A8%EC%96%B4%EC%9E%A5/id1632847712)  
 [Source Code](https://github.com/SteadySlower/JWords)  
 [Blog Posting](https://velog.io/@comdongsam/series/Side-Project)
 ### 개요 📄
@@ -120,7 +120,7 @@
 - 지속적으로 일본어 학습자에게 필요한 기능을 추가하여 업데이트하고 있습니다.
 - TCA를 사용하여 확장성, 재사용성이 높은 코드를 구현했습니다.
 - Unit Test를 작성하여 안정적인 개발환경을 구축하였습니다.
-- Vision을 활용한 OCR 기술을 사용해 일본어 키보드에 익숙하지 않은 유저들을 배려하였습니다.  
+- Vision을 활용한 OCR 기술을 사용해 일본어 키보드에 익숙하지 않은 유저들의 단어 입력 시간을 줄였습니다.
 ### 사용 기술 💻
 - SwiftUI
 - Unit Test (Quick Nimble)
